@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/FarsiLanguage/classes_gen/
+/languages/FarsiLanguage/generator/classes_gen/
