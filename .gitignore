@@ -1,3 +1,7 @@
 # Project exclude paths
 /languages/FarsiLanguage/classes_gen/
+/languages/FarsiLanguage/source_gen/
+/languages/FarsiLanguage/source_gen.caches/
 /languages/FarsiLanguage/generator/classes_gen/
+/languages/FarsiLanguage/generator/source_gen/
+/languages/FarsiLanguage/generator/source_gen.caches/
